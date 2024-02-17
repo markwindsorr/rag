@@ -1,0 +1,7 @@
+llama-index
+llama-index-embeddings-openai
+llama-index-vector-stores-pinecone
+llama-index-llms-openai
+python-dotenv
+pinecone-client
+pymupdf
